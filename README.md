@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">I strive to learn a little more each day.</h3>
 
-- 🔭 I am currently studying at **EGG Tech**
-
-- 🌱 I’m currently learning **Spring Boot**
-
-- 🤝 I’m looking for help with **Learn English**
-
-- 💬 Ask me about **the best burger recipe in the world**
-
-- ⚡ Fun fact **I am an artist, chef and geek. Now also dev**
+Actualmente estoy disponible para trabajar o participar cualquier proyecto independiente.
+⚙️ Uso a diario: Java. Spring Boot. HTML . SQL
+🌍 I’m looking for help with **Learn English**
+🌱 Aprendiendo Spring Security, Js
+💬 Pregúntame sobre música, comics, arte, gastronomia de todo tipo, desarrollo backend
+📫 Contáctame facielmente: linkedin.com/in/carmona-carlos/
+✨ Dato curioso: Me gusta filosofar sobre el futuro de las tecnologias y su impacto en la sociedad ¡Pregúntame algo al respecto!
+🚲 En mi tiempo libre, me gusta leer cuentos de horror cósmico o fantásticos, juegos de Rol de mesa y de PC. O andar en bicicleta.
+- ⚡ **I am an artist, chef and geek. Now also dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carlos-carmona-750251237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-carmona-750251237" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carlos-carmona-750251237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carmona-carlos" height="30" width="40" /></a>
 <a href="https://fb.com/jes.charles.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jes.charles.52" height="30" width="40" /></a>
 <a href="https://instagram.com/carloscarmona91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carloscarmona91" height="30" width="40" /></a>
 </p>
