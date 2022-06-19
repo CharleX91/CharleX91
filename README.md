@@ -9,15 +9,15 @@ Actualmente estoy disponible para trabajar o participar cualquier proyecto indep
 
 🌱 Aprendiendo Spring Security, Js
 
-💬 Pregúntame sobre música, comics, arte, gastronomia de todo tipo, desarrollo backend
-
-📫 Contáctame facielmente: linkedin.com/in/carmona-carlos/
+👯 Pregúntame sobre música, comics, arte, gastronomia de todo tipo, desarrollo backend
 
 ✨ Dato curioso: Me gusta filosofar sobre el futuro de las tecnologias y su impacto en la sociedad ¡Pregúntame algo al respecto!
 
 🚲 En mi tiempo libre, me gusta leer cuentos de horror cósmico o fantásticos, juegos de Rol de mesa y de PC. O andar en bicicleta.
 
-- ⚡ **I am an artist, chef and geek. Now also dev**
+😄 Pronouns: he/they - él/elle
+
+⚡ **I am an artist, chef and geek. Now also dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
