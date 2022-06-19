@@ -2,13 +2,21 @@
 <h3 align="center">I strive to learn a little more each day.</h3>
 
 Actualmente estoy disponible para trabajar o participar cualquier proyecto independiente.
+
 ⚙️ Uso a diario: Java. Spring Boot. HTML . SQL
+
 🌍 I’m looking for help with **Learn English**
+
 🌱 Aprendiendo Spring Security, Js
+
 💬 Pregúntame sobre música, comics, arte, gastronomia de todo tipo, desarrollo backend
+
 📫 Contáctame facielmente: linkedin.com/in/carmona-carlos/
+
 ✨ Dato curioso: Me gusta filosofar sobre el futuro de las tecnologias y su impacto en la sociedad ¡Pregúntame algo al respecto!
+
 🚲 En mi tiempo libre, me gusta leer cuentos de horror cósmico o fantásticos, juegos de Rol de mesa y de PC. O andar en bicicleta.
+
 - ⚡ **I am an artist, chef and geek. Now also dev**
 
 <h3 align="left">Connect with me:</h3>
