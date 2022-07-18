@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">I strive to learn a little more each day.</h3>
+<img align="right" width="33%" src=https://user-images.githubusercontent.com/102770961/179439973-f260e8bf-9d9a-43bd-a285-5ef0688c9f43.gif>
+<h1 align="center" width="50%">Hi 👋, I'm Carlos</h1>
+<h3 align="center">Me esfuerzo por aprender un poco más cada día...</h3>
 
 Actualmente estoy disponible para trabajar o participar cualquier proyecto independiente.
+
 
 ⚙️ Uso a diario: Java. Spring Boot. HTML . SQL
 
