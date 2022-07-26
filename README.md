@@ -9,7 +9,7 @@ Actualmente estoy disponible para trabajar o participar cualquier proyecto indep
 
 🌍 I’m looking for help with **Learn English**
 
-🌱 Aprendiendo Spring Security, Js
+🌱 Aprendiendo Spring Security, TypeScript y Angular
 
 👯 Pregúntame sobre música, comics, arte, gastronomia de todo tipo, desarrollo backend
 
